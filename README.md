@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB681: Turn signal into real-time protections with Project Perception
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Get hands-on with Project Perception and see how agentic security helps teams understand risk faster and turn insights into protection. Learn how Red team, Blue team, and Green team agents work together to defend at machine speed.
 
 ### 🚀 Getting started
 
