@@ -61,15 +61,13 @@ If you're learning at your own pace:
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Explain how Red team, Blue team, and Green team agents work together in Project Perception
+- Use Project Perception to understand security risk from signals
+- Turn Project Perception insights into real-time protections
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Project Perception
 
 ### 📚 Continue your learning
 
@@ -101,17 +99,17 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 ### 👥 Content owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/Padavid">
+        <img src="https://github.com/Padavid.png" width="100px;" alt="Patrick David"/><br />
+        <sub><b>Patrick David</b></sub></a><br />
+            <a href="https://github.com/Padavid" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="https://github.com/MariaVerardiYoung">
+        <img src="https://github.com/MariaVerardiYoung.png" width="100px;" alt="Maria Verardi"/><br />
+        <sub><b>Maria Verardi</b></sub></a><br />
+            <a href="https://github.com/MariaVerardiYoung" title="talk">📢</a>
     </td>
 </tr></table>
 
