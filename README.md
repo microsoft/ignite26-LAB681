@@ -15,11 +15,15 @@ Get hands-on with Project Perception and see how agentic security helps teams un
 
 #### In a guided session
 
-Guided lab instructions and the attendee entry link are not yet available.
+If you're following along during a live session:
+
+The lab guide is built into Skillable. 
 
 #### On your own
 
-Self-paced lab instructions and the attendee entry link are not yet available.
+If you're learning at your own pace:
+
+You can find directions in the /Data folder in the repository along with some example agent output files. 
 
 ### 🎯 Learning outcomes
 
@@ -31,7 +35,7 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Project Perception
+- Microsoft Perception
 - Microsoft Defender
 
 ### 📚 Continue your learning
@@ -43,7 +47,9 @@ Pick your next step based on your learning style:
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |
-| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
+| **[Microsoft Perception Community](https://aka.ms/perceptionblog)** | Connect with other learners and experts in our community |
+| **[Perception Documentation](https://aka.ms/agenticsecuritydocs)** | Offical documents on Perception |
+| **[Perception Ignite Blog](https://aka.ms/perceptionignite)** | Find the latest Ignite announcements on Perception |
 
 ### 👥 Content owners
 
