@@ -29,9 +29,9 @@ You can find directions in the /Data folder in the repository along with some ex
 
 By the end of this session, you will be able to:
 
-- Explain how Red team, Blue team, and Green team agents work together in Project Perception
-- Use Project Perception to understand security risk from signals
-- Turn Project Perception insights into real-time protections
+- Explain how Red team, Blue team, and Green team agents work together in Project Perception.
+- Use Project Perception to understand security risk.
+- Turn security insights into protections with Project Perception and Microsoft Defender.
 
 ### 💻 Technologies used
 
@@ -51,31 +51,14 @@ Pick your next step based on your learning style:
 | **[Perception Documentation](https://aka.ms/agenticsecuritydocs)** | Offical documents on Perception |
 | **[Perception Ignite Blog](https://aka.ms/perceptionignite)** | Find the latest Ignite announcements on Perception |
 
-### 🌟 Microsoft Learn MCP Server
-
-<!-- Remove this section if the Microsoft Learn MCP Server is not relevant to the session. -->
-
-The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the topics in this session.
-
-**GitHub Copilot CLI** — Install with:
-
-```shell
-copilot plugin install microsoftdocs/mcp
-```
-
-**VS Code** — One-click install:  
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp).
-
 ### 👥 Content owners
 
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/Padavid">
-        <img src="https://github.com/Padavid.png" width="100px;" alt="Patrick David"/><br />
+    <td align="center"><a href="https://github.com/padavid">
+        <img src="https://github.com/padavid.png" width="100px;" alt="Patrick David"/><br />
         <sub><b>Patrick David</b></sub></a><br />
-            <a href="https://github.com/Padavid" title="talk">📢</a>
+            <a href="https://github.com/padavid" title="talk">📢</a>
     </td>
     <td align="center"><a href="https://github.com/MariaVerardiYoung">
         <img src="https://github.com/MariaVerardiYoung.png" width="100px;" alt="Maria Verardi"/><br />
